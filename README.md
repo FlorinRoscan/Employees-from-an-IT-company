@@ -1,5 +1,5 @@
 # Employees-from-an-it-company
-Employees from an IT Company Java
+Employees from an IT Company
 This is a Java program that simulates an IT company's employee management system. It allows users to create, view, update, and delete employee records.
 
 Requirements
