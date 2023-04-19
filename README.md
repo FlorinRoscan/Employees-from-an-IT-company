@@ -8,7 +8,6 @@ An IDE such as IntelliJ IDEA or Eclipse (optional)
 Getting Started
 To get started, clone the repository to your local machine:
 
-bash
 Copy code
 git clone https://github.com/FlorinRoscan/Employees-from-an-it-company.git
 Alternatively, you can download the code as a zip file and extract it to your local machine.
